@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/havoc_blueline.mk
+    $(LOCAL_DIR)/bootleg_blueline.mk
